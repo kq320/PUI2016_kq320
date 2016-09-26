@@ -1,3 +1,3 @@
 # PUI2016_kq320
-The homework was done by myself.
+The is homework directory for PUI2016.
 
