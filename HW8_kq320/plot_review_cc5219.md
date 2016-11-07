@@ -1,1 +1,3 @@
-https://github.com/kq320/PUI2016_kq320/blob/master/HW8_kq320/cc5219.png
+![alt text][logo]
+
+[logo]: https://github.com/kq320/PUI2016_kq320/blob/master/HW8_kq320/cc5219.png "cc5219_plot"
